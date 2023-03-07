@@ -12,6 +12,8 @@ cz-event-store 是一个跨平台的 javascript 集中式状态管理库
 
 ## 安装
 
+<a href="https://www.npmjs.com/package/cz-event-store">npm 地址</a>
+
 ```
 npm i cz-event-store
 
