@@ -1,0 +1,11 @@
+{
+  "name": "cz-event-store",
+  "version": "1.0.0",
+  "description": "一个跨平台的javascript集中式状态管理库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yanglingyun",
+  "license": "ISC"
+}
